@@ -13,7 +13,7 @@ This repository contains a empty cmake project for future use.
 First of all, grab a copy of this repository
 
 ```sh
-$ git clone https://github.com/C-Engineer/cmake-skeleton
+$ git clone https://github.com/deep-c-course/cmake-skeleton/
 ```
 
 Compile it to test if you have everything setup.
