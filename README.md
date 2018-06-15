@@ -1,4 +1,4 @@
-C Engineer
+Deep C
 ===
 
 ## About the Course
